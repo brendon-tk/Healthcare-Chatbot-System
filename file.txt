@@ -1,0 +1,416 @@
+
+
+greeting
+Hi there
+How are you
+Is anyone there?
+Hola
+Hello
+Good day
+Hello, thanks for asking
+Good to see you again
+Hi there, how can I help?
+name
+what is your name
+what should I call you
+whats your name?
+You can call me Doctor Brendon
+I'm Engineer TeeKay
+goodbye
+Bye
+See you later
+Goodbye
+Nice chatting to you, bye
+Till next time
+See you!
+Have a nice day
+Bye! Come back again soon.
+problem_solving
+i need help
+help me
+tell me
+i have some problem
+problem
+can you help me?
+yes i can help you
+tell me what can i do for you
+what do you want me to do
+how can i help you
+what kind of help do you need
+tell me
+thanks
+Thanks
+Thank you
+That's helpful
+Awesome, thanks
+Thanks for helping me
+Happy to help!
+Any time!
+My pleasure
+anal cancer
+bleeding from the bottom (rectal bleeding)
+itching and pain around the anus
+small lumps around the anus
+a discharge of mucus from the anus
+loss of bowel control 
+problem_solving
+i need help
+help me
+tell me
+i have some problem
+problem
+can you help me?
+yes i can help you
+tell me what can i do for you
+what do you want me to do
+how can i help you
+what kind of help do you need
+tell me
+jaundice
+yellow skin
+yellowish white part of eye
+itching of the skin
+light colored stools
+dark colored urine
+you might be suffering from jaundice
+emotional problems
+anxiety
+depression fatigue
+feeling tense
+flashbacks and nightmares
+disinterest in regular activities
+suicidal thoughts
+hallucinations
+you might be suffering from emotional problems
+delusions
+headache problems
+ dizziness
+nausea
+vomiting
+inability to walk
+you might be suffering from headache problems
+appendicitis
+feeling sick (nausea)
+being sick
+loss of appetite
+diarrhoea
+a high temperature (fever) and a flushed face
+you might be suffering from appendicitis
+anal cancer
+bleeding from the bottom (rectal bleeding)
+itching and pain around the anus
+small lumps around the anus
+a discharge of mucus from the anus
+loss of bowel control 
+you might be suffering from anal cancer
+allergy
+ sneezing and an itchy, runny or blocked nose
+itchy, red, watering eyes
+wheezing, chest tightness, shortness of breath and a cough
+a raised, itchy, red rash (hives)
+swollen lips, tongue, eyes or face
+tummy pain, feeling sick, vomiting or diarrhoea
+dry, red and cracked skin
+you might be suffering from allergy
+alcohol-related liver disease
+loss of appetite
+fatigue
+feeling sick
+diarrhoea
+feeling generally unwell
+yellowing of the skin and whites of the eyes (jaundice)
+you might be suffering from alcohol-related liver disease
+hair loss, unusually curved fingertips and nails (clubbed fingers)
+blotchy red palms
+significant weight loss
+weakness and muscle wasting
+confusion and memory problems, trouble sleeping (insomnia) and changes in your personality due to a build-up of toxins in the brain
+dehydration
+izziness
+light headedness
+headache
+tiredness
+dry mouth
+dry lips
+dry eyes
+you might be suffering from dehydration
+diabetic retinopathy
+gradually worsening vision
+sudden vision loss
+shapes floating in field of vision (floaters)
+blurred vision
+ patchy vision
+eye pain or redness
+you might be suffering from diabetic retinopathy
+diabetic retinopathy
+gradually worsening vision
+sudden vision loss
+shapes floating in field of vision (floaters)
+blurred vision
+ patchy vision
+eye pain or redness
+you might be suffering from diabetic retinopathy
+type 2 diabetes
+rinating more often than usual, particularly at night
+feeling very thirsty
+feeling very tired
+unexplained weight loss
+itchiness around the genital area
+cuts or wounds that heal slowly
+blurred vision
+you might be suffering from type 2 diabetes
+type 1 diabetes
+feeling very thirsty
+urinating more frequently than usual
+urinating particularly at night
+feeling very tired
+weight loss
+loss of muscle bulk
+itchiness around the genital area
+you might be suffering from type 1 diabetes
+Hypoglycaemia
+feeling shaky and irritable
+sweating
+tingling lips
+feeling weak
+feeling confused
+hunger
+nausea
+you might be suffering from Hypoglycaemia (low blood glucose)
+Hyperglycaemia
+extreme thirst
+a dry mouth
+blurred vision
+drowsiness
+need to pass urine frequently
+you might be suffering from Hyperglycaemia (high blood glucose)
+diarrhoea
+stomach cramps
+nausea
+vomiting
+headache
+loss of appetite
+you might be suffering from diarrhoea
+Ebola
+high temperature fever
+headache
+joint and muscle pain
+sore throat
+severe muscle weakness
+you might be suffering from headache Ebola
+kidney cancer
+extreme tiredness (fatigue) or anaemia
+unintentional weight loss
+a high temperature of 38C (100.4F) or above
+night sweats
+general sense of feeling unwell
+swelling of the veins in the testicles (in men)
+loss of appetite
+you might be suffering from kidney cancer
+glandular fever
+a high temperature fever
+sore throat
+swollen glands
+fatigue
+extreme tiredness
+you might be suffering from glandular fever
+hay fever
+frequent sneezing
+runny nose
+ blocked nose
+itchy, red or watery eyes
+itchy throat, mouth, nose and ears
+cough
+you might be suffering from hay fever
+fibromyalgia
+widespread pain
+you might be suffering from fibromyalgia
+eye cancer
+shadows, flashes of light, or wiggly lines in your vision
+blurred vision
+a dark patch in eye
+partial or total loss of vision
+bulging of one eye
+lump on eyelid or in eye that's increasing in size
+pain in or around eye
+you might be suffering from eye cancer
+eye cancer
+shadows, flashes of light, or wiggly lines in your vision
+blurred vision
+a dark patch in eye
+partial or total loss of vision
+bulging of one eye
+lump on eyelid or in eye that's increasing in size
+pain in or around eye
+you might be suffering from eye cancer
+COVID-19
+have a new cough thatâ€™s lasted for an hour
+have had 3 or more episodes of coughing in 24 hours
+are coughing more than usual
+a new continuous cough
+ a fever/high temperature (37.8C or greater)
+You might be suffering from covid 19
+common cold
+a sore throat
+a blocked or runny nose
+sneezing
+a cough
+a hoarse voice
+generally feeling unwell
+you might be suffering from common cold
+chickenpox
+feeling sick
+a high temperature (fever) of 38C (100.4F) or over
+aching, painful muscles
+headache
+generally feeling unwell
+loss of appetite
+you might be suffering from chickenpox
+stroke
+ facial drooping
+arm weakness
+difficulty with speech
+rapidly developing dizziness or balance
+sudden numbness or weakness
+loss of vision
+confusion
+you might be suffering from stroke
+breast problems
+nipple discharge
+unusual breast tenderness or pain
+breast or nipple skin changes
+lump or thickening in or near breast or in the underarm area.
+you might be suffering from breast problems
+reproductive health problems
+bleeding or spotting between periods
+itching, burning, or irritation genital area
+pain or discomfort during sex
+heavy or painful menstrual bleeding
+ severe pelvic/abdominal pain
+unusual vaginal discharge
+feeling of fullness in the lower abdomen
+you might be suffering from reproductive health problems
+lung problems
+coughing up blood
+shortness of breath
+difficulty breathing
+chronic cough
+repeated bouts of bronchitis or pneumonia
+wheezing.
+you might be suffering from lung problems
+bladder problems
+difficult or painful urination
+frequent urination
+loss of bladder control
+blood in urine
+blood in urine
+blood in urine
+blood in urine
+waking frequently at night to urinate
+wetting the bed at night
+leaking urine.
+you might be suffering from bladder problems
+eating or weight problems
+extreme thirst
+dehydration
+excessive hunger
+losing weight without trying
+binging, vomiting
+starvation
+preoccupation with food and weight
+you might be suffering from eating or weight problems
+influenza
+headache
+pain in the head
+cough
+high fever 
+snizzing
+running nose
+soar throat
+you might be suffering from flu
+asthma
+shortness of breath
+chest pain or tightness
+cough
+snizing
+you might be suffering from asthma
+hepatitis_B
+abdominal pain
+fever
+dark urine
+joint pain
+loss of apetite
+nausea and vomitting
+weakness and fatigue
+you might be suffering from hepatitis_B
+Dengue
+headache
+fever
+muscle pain
+joint paint
+pain behind eyes
+nausea and vomitting
+rashes
+you might be suffering from Dengue
+alcohol-related liver disease
+ abdominal pain
+loss of appetite
+fatigue
+feeling sick
+diarrhoea
+feeling generally unwell
+yellowing of the skin and whites of the eyes (jaundice)
+you might be suffering from alcohol-related liver disease
+bladder cancer
+ a need to urinate on a more frequent basis
+sudden urges to urinate
+a burning sensation when passing urine
+you might be suffering from bladder cancer
+dehydration
+izziness
+light headedness
+headache
+tiredness
+dry mouth
+dry lips
+eyes
+you might be suffering from dehydration
+diabetic retinopathy
+gradually worsening vision
+sudden vision loss
+shapes floating in field of vision (floaters)
+blurred vision
+ patchy vision
+eye pain or redness
+you might be suffering from diabetic retinopathy
+type 2 diabetes
+rinating more often than usual, particularly at night
+feeling very thirsty
+feeling very tired
+unexplained weight loss
+itchiness around the genital area
+cuts or wounds that heal slowly
+blurred vision
+you might be suffering from type 2 diabetes
+stroke
+ facial drooping
+arm weakness
+difficulty with speech
+rapidly developing dizziness or balance
+sudden numbness or weakness
+confusion
+you might be suffering from stroke
+breast problems
+ nipple discharge
+unusual breast tenderness or pain
+breast or nipple skin changes
+lump or thickening in or near breast or in the underarm area.
+reproductive health problems
+ bleeding or spotting between periods
+itching, burning, or irritation genital area
+pain or discomfort during sex
+heavy or painful menstrual bleeding
+ severe pelvic/abdominal pain
+unusual vaginal discharge
+feeling of fullness in the lower abdomen
+you might be suffering from reproductive health problems

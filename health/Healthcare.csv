@@ -1,0 +1,415 @@
+conversation_id,message,sentiment
+1,greeting,greeting
+1,Hi there,greeting
+1,How are you,greeting
+1,Is anyone there?,greeting
+1,Hola,greeting
+1,Hello,greeting
+1,Good day,greeting
+1,"Hello, thanks for asking",greeting
+1,Good to see you again,greeting
+1,"Hi there, how can I help?",greeting
+2,name,name
+2,what is your name,name
+2,what should I call you,name
+2,whats your name?,name
+2,You can call me Doctor Brendon,name
+2,I'm Engineer TeeKay,name
+3,goodbye,name
+3,Bye,name
+3,See you later,name
+3,Goodbye,name
+3,"Nice chatting to you, bye",name
+3,Till next time,name
+3,See you!,name
+3,Have a nice day,name
+3,Bye! Come back again soon.,name
+4,problem_solving,help
+4,i need help,help
+4,help me,help
+4,tell me,help
+4,i have some problem,help
+4,problem,help
+4,can you help me?,help
+4,yes i can help you,help
+4,tell me what can i do for you,help
+4,what do you want me to do,help
+4,how can i help you,help
+4,what kind of help do you need,help
+4,tell me,help
+5,thanks,thanks
+5,Thanks,thanks
+5,Thank you,thanks
+5,That's helpful,thanks
+5,"Awesome, thanks",thanks
+5,Thanks for helping me,thanks
+5,Happy to help!,thanks
+5,Any time!,thanks
+5,My pleasure,thanks
+6,anal cancer,problem
+6,bleeding from the bottom (rectal bleeding),problem
+6,itching and pain around the anus,problem
+6,small lumps around the anus,problem
+6,a discharge of mucus from the anus,problem
+6,loss of bowel control ,problem
+7,problem_solving,solve
+7,i need help,solve
+7,help me,solve
+7,tell me,solve
+7,i have some problem,solve
+7,problem,solve
+7,can you help me?,solve
+7,yes i can help you,solve
+7,tell me what can i do for you,solve
+7,what do you want me to do,solve
+7,how can i help you,solve
+7,what kind of help do you need,solve
+7,tell me,solve
+8,jaundice,skin
+8,yellow skin,skin
+8,yellowish white part of eye,skin
+8,itching of the skin,skin
+8,light colored stools,skin
+8,dark colored urine,skin
+8,you might be suffering from jaundice,skin
+9,emotional problems,skin
+9,anxiety,delusion
+9,depression fatigue,delusion
+9,feeling tense,delusion
+9,flashbacks and nightmares,delusion
+9,disinterest in regular activities,delusion
+9,suicidal thoughts,delusion
+9,hallucinations,delusion
+9,you might be suffering from emotional problems,delusion
+9,delusions,delusion
+10,headache problems,headache
+10, dizziness,headache
+10,nausea,headache
+10,vomiting,headache
+10,inability to walk,headache
+10,you might be suffering from headache problems,headache
+11,appendicitis,headache
+11,feeling sick (nausea),headache
+11,being sick,headache
+11,loss of appetite,headache
+11,diarrhoea,headache
+11,a high temperature (fever) and a flushed face,headache
+11,you might be suffering from appendicitis,headache
+12,anal cancer,cancer
+12,bleeding from the bottom (rectal bleeding),cancer
+12,itching and pain around the anus,cancer
+12,small lumps around the anus,cancer
+12,a discharge of mucus from the anus,cancer
+12,loss of bowel control ,cancer
+12,you might be suffering from anal cancer,cancer
+13,allergy,allergy
+13," sneezing and an itchy, runny or blocked nose",allergy
+13,"itchy, red, watering eyes",allergy
+13,"wheezing, chest tightness, shortness of breath and a cough",allergy
+13,"a raised, itchy, red rash (hives)",allergy
+13,"swollen lips, tongue, eyes or face",allergy
+13,"tummy pain, feeling sick, vomiting or diarrhoea",allergy
+13,"dry, red and cracked skin",allergy
+13,you might be suffering from allergy,allergy
+14,alcohol-related liver disease,liver
+14,loss of appetite,liver
+14,fatigue,liver
+14,feeling sick,liver
+14,diarrhoea,liver
+14,feeling generally unwell,liver
+14,yellowing of the skin and whites of the eyes (jaundice),liver
+14,you might be suffering from alcohol-related liver disease,liver
+14,"hair loss, unusually curved fingertips and nails (clubbed fingers)",liver
+14,blotchy red palms,liver
+14,significant weight loss,liver
+14,weakness and muscle wasting,liver
+14,"confusion and memory problems, trouble sleeping (insomnia) and changes in your personality due to a build-up of toxins in the brain",liver
+15,dehydration,dehydration
+15,izziness,dehydration
+15,light headedness,dehydration
+15,headache,dehydration
+15,tiredness,dehydration
+15,dry mouth,dehydration
+15,dry lips,dehydration
+15,dry eyes,dehydration
+15,you might be suffering from dehydration,dehydration
+16,diabetic retinopathy,diabetis
+16,gradually worsening vision,diabetis
+16,sudden vision loss,diabetis
+16,shapes floating in field of vision (floaters),diabetis
+16,blurred vision,diabetis
+16, patchy vision,diabetis
+16,eye pain or redness,diabetis
+16,you might be suffering from diabetic retinopathy,diabetis
+17,diabetic retinopathy,retinopathy
+17,gradually worsening vision,retinopathy
+17,sudden vision loss,retinopathy
+17,shapes floating in field of vision (floaters),retinopathy
+17,blurred vision,retinopathy
+17, patchy vision,retinopathy
+17,eye pain or redness,retinopathy
+17,you might be suffering from diabetic retinopathy,retinopathy
+18,type 2 diabetes,diabetes 2
+18,"rinating more often than usual, particularly at night",diabetes 2
+18,feeling very thirsty,diabetes 2
+18,feeling very tired,diabetes 2
+18,unexplained weight loss,diabetes 2
+18,itchiness around the genital area,diabetes 2
+18,cuts or wounds that heal slowly,diabetes 2
+18,blurred vision,diabetes 2
+18,you might be suffering from type 2 diabetes,diabetes 2
+19,type 1 diabetes,diabetis 1
+19,feeling very thirsty,diabetis 1
+19,urinating more frequently than usual,diabetis 1
+19,urinating particularly at night,diabetis 1
+19,feeling very tired,diabetis 1
+19,weight loss,diabetis 1
+19,loss of muscle bulk,diabetis 1
+19,itchiness around the genital area,diabetis 1
+19,you might be suffering from type 1 diabetes,diabetis 1
+20,Hypoglycaemia,hypo
+20,feeling shaky and irritable,hypo
+20,sweating,hypo
+20,tingling lips,hypo
+20,feeling weak,hypo
+20,feeling confused,hypo
+20,hunger,Hyperglycaemia
+20,nausea,Hyperglycaemia
+20,you might be suffering from Hypoglycaemia (low blood glucose),Hyperglycaemia
+21,Hyperglycaemia,Hyperglycaemia
+21,extreme thirst,Hyperglycaemia
+21,a dry mouth,Hyperglycaemia
+21,blurred vision,Hyperglycaemia
+21,drowsiness,Hyperglycaemia
+21,need to pass urine frequently,Hyperglycaemia
+21,you might be suffering from Hyperglycaemia (high blood glucose),Hyperglycaemia
+22,diarrhoea,diarhoea
+22,stomach cramps,diarhoea
+22,nausea,diarhoea
+22,vomiting,diarhoea
+22,headache,diarhoea
+22,loss of appetite,diarhoea
+22,you might be suffering from diarrhoea,diarhoea
+23,Ebola,Ebola
+23,high temperature fever,Ebola
+23,headache,Ebola
+23,joint and muscle pain,Ebola
+23,sore throat,Ebola
+23,severe muscle weakness,Ebola
+23,you might be suffering from headache Ebola,Ebola
+24,kidney cancer,kidney
+24,extreme tiredness (fatigue) or anaemia,kidney
+24,unintentional weight loss,kidney
+24,a high temperature of 38C (100.4F) or above,kidney
+24,night sweats,kidney
+24,general sense of feeling unwell,kidney
+24,swelling of the veins in the testicles (in men),kidney
+24,loss of appetite,kidney
+24,you might be suffering from kidney cancer,kidney
+25,glandular fever,fever
+25,a high temperature fever,fever
+25,sore throat,fever
+25,swollen glands,fever
+25,fatigue,fever
+25,extreme tiredness,fever
+25,you might be suffering from glandular fever,fever
+26,hay fever,hayfever
+26,frequent sneezing,hayfever
+26,runny nose,hayfever
+26, blocked nose,hayfever
+26,"itchy, red or watery eyes",hayfever
+26,"itchy throat, mouth, nose and ears",hayfever
+26,cough,hayfever
+26,you might be suffering from hay fever,hayfever
+27,fibromyalgia,fibromyalgia
+27,widespread pain,fibromyalgia
+27,you might be suffering from fibromyalgia,fibromyalgia
+28,eye cancer,eye cancer
+28,"shadows, flashes of light, or wiggly lines in your vision",eye cancer
+28,blurred vision,eye cancer
+28,a dark patch in eye,eye cancer
+28,partial or total loss of vision,eye cancer
+28,bulging of one eye,eye cancer
+28,lump on eyelid or in eye that's increasing in size,eye cancer
+28,pain in or around eye,eye cancer
+28,you might be suffering from eye cancer,eye cancer
+29,eye cancer,eye cancer
+29,"shadows, flashes of light, or wiggly lines in your vision",eye cancer
+29,blurred vision,eye cancer
+29,a dark patch in eye,eye cancer
+29,partial or total loss of vision,eye cancer
+29,bulging of one eye,eye cancer
+29,lump on eyelid or in eye that's increasing in size,eye cancer
+29,pain in or around eye,eye cancer
+29,you might be suffering from eye cancer,eye cancer
+30,COVID-19,covid
+30,have a new cough that’s lasted for an hour,covid
+30,have had 3 or more episodes of coughing in 24 hours,covid
+30,are coughing more than usual,covid
+30,a new continuous cough,covid
+30, a fever/high temperature (37.8C or greater),covid
+30,You might be suffering from covid 19,covid
+31,common cold,cold
+31,a sore throat,cold
+31,a blocked or runny nose,cold
+31,sneezing,cold
+31,a cough,cold
+31,a hoarse voice,cold
+31,generally feeling unwell,cold
+31,you might be suffering from common cold,cold
+32,chickenpox,pox
+32,feeling sick,pox
+32,a high temperature (fever) of 38C (100.4F) or over,pox
+32,"aching, painful muscles",pox
+32,headache,pox
+32,generally feeling unwell,pox
+32,loss of appetite,pox
+32,you might be suffering from chickenpox,pox
+33,stroke,stroke
+33, facial drooping,stroke
+33,arm weakness,stroke
+33,difficulty with speech,stroke
+33,rapidly developing dizziness or balance,stroke
+33,sudden numbness or weakness,stroke
+33,loss of vision,stroke
+33,confusion,stroke
+33,you might be suffering from stroke,stroke
+34,breast problems,breast
+34,nipple discharge,breast
+34,unusual breast tenderness or pain,breast
+34,breast or nipple skin changes,breast
+34,lump or thickening in or near breast or in the underarm area.,breast
+34,you might be suffering from breast problems,breast
+35,reproductive health problems,health
+35,bleeding or spotting between periods,health
+35,"itching, burning, or irritation genital area",health
+35,pain or discomfort during sex,health
+35,heavy or painful menstrual bleeding,health
+35, severe pelvic/abdominal pain,health
+35,unusual vaginal discharge,health
+35,feeling of fullness in the lower abdomen,health
+35,you might be suffering from reproductive health problems,health
+36,lung problems,lung
+36,coughing up blood,lung
+36,shortness of breath,lung
+36,difficulty breathing,lung
+36,chronic cough,lung
+36,repeated bouts of bronchitis or pneumonia,lung
+36,wheezing.,lung
+36,you might be suffering from lung problems,bladder
+37,bladder problems,bladder
+37,difficult or painful urination,bladder
+37,frequent urination,bladder
+37,loss of bladder control,bladder
+37,blood in urine,bladder
+37,blood in urine,bladder
+37,blood in urine,bladder
+37,blood in urine,bladder
+37,waking frequently at night to urinate,bladder
+37,wetting the bed at night,bladder
+37,leaking urine.,bladder
+37,you might be suffering from bladder problems,bladder
+38,eating or weight problems,weight
+38,extreme thirst,weight
+38,dehydration,weight
+38,excessive hunger,weight
+38,losing weight without trying,weight
+38,"binging, vomiting",weight
+38,starvation,weight
+38,preoccupation with food and weight,weight
+38,you might be suffering from eating or weight problems,weight
+39,influenza,flue
+39,headache,flue
+39,pain in the head,flue
+39,cough,flue
+39,high fever ,flue
+39,snizzing,flue
+39,running nose,flue
+39,soar throat,flue
+39,you might be suffering from flu,flue
+38,asthma,asthma
+38,shortness of breath,asthma
+38,chest pain or tightness,asthma
+38,cough,asthma
+38,snizing,asthma
+38,you might be suffering from asthma,asthma
+39,hepatitis_B,hepatitis
+39,abdominal pain,hepatitis
+39,fever,hepatitis
+39,dark urine,hepatitis
+39,joint pain,hepatitis
+39,loss of apetite,hepatitis
+39,nausea and vomitting,hepatitis
+39,weakness and fatigue,hepatitis
+39,you might be suffering from hepatitis_B,hepatitis
+40,Dengue,dengue
+40,headache,dengue
+40,fever,dengue
+40,muscle pain,dengue
+40,joint paint,dengue
+40,pain behind eyes,dengue
+40,nausea and vomitting,dengue
+40,rashes,dengue
+40,you might be suffering from Dengue,dengue
+41,alcohol-related liver disease,liver
+41, abdominal pain,liver
+41,loss of appetite,liver
+41,fatigue,liver
+41,feeling sick,liver
+41,diarrhoea,liver
+41,feeling generally unwell,liver
+41,yellowing of the skin and whites of the eyes (jaundice),liver
+41,you might be suffering from alcohol-related liver disease,liver
+42,bladder cancer,bladder cancer
+42, a need to urinate on a more frequent basis,bladder cancer
+42,sudden urges to urinate,bladder cancer
+42,a burning sensation when passing urine,bladder cancer
+42,you might be suffering from bladder cancer,bladder cancer
+43,dehydration,dehydration
+43,izziness,dehydration
+43,light headedness,dehydration
+43,headache,dehydration
+43,tiredness,dehydration
+43,dry mouth,dehydration
+43,dry lips,dehydration
+43,eyes,dehydration
+43,you might be suffering from dehydration,dehydration
+44,diabetic retinopathy,retinopathy
+44,gradually worsening vision,retinopathy
+44,sudden vision loss,retinopathy
+44,shapes floating in field of vision (floaters),retinopathy
+44,blurred vision,retinopathy
+44, patchy vision,retinopathy
+44,eye pain or redness,retinopathy
+44,you might be suffering from diabetic retinopathy,retinopathy
+45,type 2 diabetes,2 Diabetes
+45,"rinating more often than usual, particularly at night",2 Diabetes
+45,feeling very thirsty,2 Diabetes
+45,feeling very tired,2 Diabetes
+45,unexplained weight loss,2 Diabetes
+45,itchiness around the genital area,2 Diabetes
+45,cuts or wounds that heal slowly,2 Diabetes
+45,blurred vision,2 Diabetes
+45,you might be suffering from type 2 diabetes,2 Diabetes
+46,stroke,stroke
+46, facial drooping,stroke
+46,arm weakness,stroke
+46,difficulty with speech,stroke
+46,rapidly developing dizziness or balance,stroke
+46,sudden numbness or weakness,stroke
+46,confusion,stroke
+46,you might be suffering from stroke,stroke
+47,breast problems,arm
+47, nipple discharge,arm
+47,unusual breast tenderness or pain,arm
+47,breast or nipple skin changes,arm
+47,lump or thickening in or near breast or in the underarm area.,arm
+48,reproductive health problems,health prob
+48, bleeding or spotting between periods,health prob
+48,"itching, burning, or irritation genital area",health prob
+48,pain or discomfort during sex,health prob
+48,heavy or painful menstrual bleeding,health prob
+48, severe pelvic/abdominal pain,health prob
+48,unusual vaginal discharge,health prob
+48,feeling of fullness in the lower abdomen,health prob
+48,you might be suffering from reproductive health problems,health prob
