@@ -48,8 +48,11 @@ Run the Application:
 python app.py
 
 
-
 How It Works
+![WhatsApp Image 2024-12-17 at 14 43 05_53690bbf](https://github.com/user-attachments/assets/7e5e2543-c94f-445e-9943-6a0d08cf13ad)
+
+
+![WhatsApp Image 2024-12-17 at 14 43 10_b0e721aa](https://github.com/user-attachments/assets/b118b1cc-8805-43ca-b655-b3b347288740)
 
 User Interaction:
 
